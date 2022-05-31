@@ -1,0 +1,12 @@
+/Users/jinrong/work/demo_qt/build/CMakeFiles/Build_Qt_Demo.dir
+/Users/jinrong/work/demo_qt/build/CMakeFiles/edit_cache.dir
+/Users/jinrong/work/demo_qt/build/CMakeFiles/rebuild_cache.dir
+/Users/jinrong/work/demo_qt/build/CMakeFiles/Build_Qt_Demo_autogen.dir
+/Users/jinrong/work/demo_qt/build/window/CMakeFiles/123.dir
+/Users/jinrong/work/demo_qt/build/window/CMakeFiles/edit_cache.dir
+/Users/jinrong/work/demo_qt/build/window/CMakeFiles/rebuild_cache.dir
+/Users/jinrong/work/demo_qt/build/window/CMakeFiles/123_autogen.dir
+/Users/jinrong/work/demo_qt/build/ui/CMakeFiles/234.dir
+/Users/jinrong/work/demo_qt/build/ui/CMakeFiles/edit_cache.dir
+/Users/jinrong/work/demo_qt/build/ui/CMakeFiles/rebuild_cache.dir
+/Users/jinrong/work/demo_qt/build/ui/CMakeFiles/234_autogen.dir
